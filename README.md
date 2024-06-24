@@ -1,0 +1,1 @@
+# staircase_number_pattern
